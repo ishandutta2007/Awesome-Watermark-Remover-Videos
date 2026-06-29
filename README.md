@@ -1,5 +1,10 @@
-# Awesome-Watermark-Remover-Videos
-## 🎬 Video Watermark Removal Landscape: The Ultimate Guide to SOTA AI Tools 🚀
+# Awesome Watermark Remover for Videos
+
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Watermark Remover Videos - SOTA AI Video Watermark Removal Tool Guide" width="100%">
+</p>
+
+## 🎬 SOTA Video Watermark Removal: The Ultimate Guide to AI Tools & Research 🚀
 
 [![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
@@ -7,9 +12,19 @@
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Watermark-Remover-Videos?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Awesome-Watermark-Remover-Videos/network/members)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Watermark-Remover-Videos?style=for-the-badge&color=green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
-[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishandutta2007)
 
-A comprehensive, curated list of **State-of-the-Art (SOTA) Video Watermark Removal tools**, AI research, and open-source projects. Covers visible watermark removal (logos, text overlays, timestamps), invisible/forensic watermark stripping (SynthID, TreeRing, C2PA), and AI-generated video watermarks (Sora, Runway, Seedance, KLing).
+---
+
+### 🔍 Quick Index & Navigation
+[☁️ Cloud SaaS Products](#️-cloud-hosted-saas-products) | [📁 Open-Source GitHub Projects](#-open-source-github-projects) | [📊 SOTA Model Comparison](#-sota-model--method-comparison) | [🛠️ Tools & Pipelines](#️-tools-pipelines--platforms) | [📢 News & Milestones](#-news--major-milestones-20242026) | [⚖️ Legal & Ethical](#️-legal--ethical-considerations)
+
+---
+
+A comprehensive, curated collection of **State-of-the-Art (SOTA) Video Watermark Removal tools**, AI research models, and open-source projects. This repository covers:
+* **Visible Watermark Removal:** Automate the removal of logos, text overlays, timestamps, and station bugs.
+* **Invisible & Forensic Watermark Stripping:** Evaluate and strip invisible metadata/watermarks (e.g., SynthID, TreeRing, C2PA).
+* **AI-Generated Video Watermark Erasers:** Specific models for erasing watermarks from Sora, Runway Gen-3, Seedance, KLing, and Luma Dream Machine.
+
 
 ---
 
