@@ -30,15 +30,15 @@ A comprehensive, curated collection of **State-of-the-Art (SOTA) Video Watermark
 
 ## ☁️ Cloud-Hosted SaaS Products
 
-| Product | Description | Pricing | Free Tier | Best For |
-|---|---|---|---|---|
-| **[Dewatermark.ai](https://dewatermark.ai/)** | AI-powered video & image watermark removal using CNN + GAN models. One-click upload, auto-detect, clean download. | Credit-based; 50 credits from ~$3.90 | 5-second preview free | Creators, marketers, casual users |
-| **[Unwatermark AI](https://unwatermark.ai/)** | Freemium platform covering video, image, and PDF watermark removal. Credit packs that never expire. | Credits: 50/$3.90, 1000/$16.90 | Daily image quota + 6s video preview | Pay-as-you-go users |
-| **[Kapwing](https://www.kapwing.com/tools/clean-video)** | Collaborative cloud video editor with built-in watermark removal and real-time team review. | Free (with watermark); Pro from $16/month | Yes (exports with watermark) | Teams & collaborative workflows |
-| **[HitPaw Video Enhancer](https://www.hitpaw.com/)** | Beginner-friendly one-click watermark remover with brush/lasso selection and AI background reconstruction. | Paid plans available | Limited trial | Social media editors & beginners |
-| **[Vmake AI](https://vmake.ai/video-watermark-remover)** | Browser-based AI remover supporting watermarks, logos, text overlays from video — no signup needed. | Freemium | Yes (no signup) | Quick one-off removals |
-| **[Apowersoft Online](https://www.apowersoft.com/)** | Manual box-selection tool for static watermarks across multiple timestamps. Simple, no installation. | Freemium | Yes | Simple static watermark removals |
-| **[pxz.ai](https://www.pxz.ai)** | Fast AI video watermark removal with HD export; standard resolution free. | Paid from $9.99/month | Yes (standard res) | Freelancers & content repurposing |
+| Product | Description | Pricing | Free Tier | Company Size (Est. Revenue/Valuation) | Best For |
+|---|---|---|---|---|---|
+| **[Kapwing](https://www.kapwing.com/tools/clean-video)** | Collaborative cloud video editor with built-in watermark removal and real-time team review. | Free (with watermark); Pro from $16/month | Yes (exports with watermark) | **$10.4M ARR / $45.1M Val.** (VC Backed) | Teams & collaborative workflows |
+| **[Apowersoft Online](https://www.apowersoft.com/)** | Manual box-selection tool for static watermarks across multiple timestamps. Simple, no installation. | Freemium | Yes | **$5M - $10M ARR** (WANGXU Tech, ~180 employees) | Simple static watermark removals |
+| **[HitPaw Video Enhancer](https://www.hitpaw.com/)** | Beginner-friendly one-click watermark remover with brush/lasso selection and AI background reconstruction. | Paid plans available | Limited trial | **$1.2M ARR / $3.6M Val.** (Bootstrapped) | Social media editors & beginners |
+| **[Vmake AI](https://vmake.ai/video-watermark-remover)** | Browser-based AI remover supporting watermarks, logos, text overlays from video — no signup needed. | Freemium | Yes (no signup) | **$500K - $1M ARR** (Bootstrapped) | Quick one-off removals |
+| **[Dewatermark.ai](https://dewatermark.ai/)** | AI-powered video & image watermark removal using CNN + GAN models. One-click upload, auto-detect, clean download. | Credit-based; 50 credits from ~$3.90 | 5-second preview free | **$100K - $300K ARR** (Bootstrapped) | Creators, marketers, casual users |
+| **[Unwatermark AI](https://unwatermark.ai/)** | Freemium platform covering video, image, and PDF watermark removal. Credit packs that never expire. | Credits: 50/$3.90, 1000/$16.90 | Daily image quota + 6s video preview | **$50K - $150K ARR** (Bootstrapped) | Pay-as-you-go users |
+| **[pxz.ai](https://www.pxz.ai)** | Fast AI video watermark removal with HD export; standard resolution free. | Paid from $9.99/month | Yes (standard res) | **&lt;$50K ARR** (Bootstrapped) | Freelancers & content repurposing |
 
 ---
 
